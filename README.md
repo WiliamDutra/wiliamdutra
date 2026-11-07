@@ -15,9 +15,9 @@ Desenvolvedor full-stack com foco em infraestrutura de rastreamento server-side,
 
 ### 🛠 Stack
 
-**Languages:** TypeScript · JavaScript
+**Languages:** TypeScript · JavaScript · C#
 **Frontend:** React · Next.js
-**Backend:** Node.js · Express · REST APIs · Webhooks
+**Backend:** Node.js · Express · REST APIs · Webhooks · C#
 **Data:** PostgreSQL · Redis
 **Infra:** Docker · Cloudflare · VPS
 **Tráfego & Tracking:** Meta Ads · Google Ads · GTM · GA4 · Meta CAPI
