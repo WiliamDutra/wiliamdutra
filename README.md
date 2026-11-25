@@ -1,8 +1,8 @@
 # Wiliam Dutra
 
-**Full-Stack Developer** · Brasil
+**AI Engineer & Full-Stack Developer** · Brasil
 
-Desenvolvedor full-stack com foco em infraestrutura de rastreamento server-side, integrações via API/webhook e deploy em Cloudflare/VPS. Antes de virar dev, passei por 8 anos em TI e rodei operação própria de Direct Response, o que me dá visão do funil de ponta a ponta, não só do código que o sustenta.
+Engenheiro de IA com perfil forte de desenvolvimento: construo produtos com LLMs em cima de backends e integrações que sustentam produção, com foco em infraestrutura de rastreamento server-side, API/webhook e deploy em Cloudflare/VPS. Antes de virar dev, passei por 8 anos em TI e rodei operação própria de Direct Response, o que me dá visão do funil de ponta a ponta, não só do código que o sustenta.
 
 [![LinkedIn](assets/badges/linkedin.svg)](https://www.linkedin.com/in/william-alves-dutra-6a6965131/)
 
@@ -11,6 +11,8 @@ Desenvolvedor full-stack com foco em infraestrutura de rastreamento server-side,
 ### About
 
 - **8 anos em TI** (suporte técnico, liderança de equipe) antes de migrar para tráfego pago e depois para desenvolvimento.
+- **IA aplicada:** **LLMs** (Anthropic, Gemini) e **RAG** interpretando linguagem natural e automatizando fluxos (por exemplo, um bot que cria tarefas no Linear a partir do Discord).
+- **Cibersegurança:** estudando a área para construir sistemas mais seguros.
 - Foco em **tracking server-side** (GTM, GA4, Meta Conversions API), integrações via **API/webhook** e deploy em **Cloudflare e VPS**.
 - Aprendo majoritariamente sozinho: documentação, **Claude Code** como ferramenta de apoio e muito projeto próprio até funcionar.
 
@@ -24,6 +26,14 @@ Desenvolvedor full-stack com foco em infraestrutura de rastreamento server-side,
 | **Bot Discord ↔ Linear** *(privado)* | Bot que cria tarefas no Linear a partir de mensagens em linguagem natural no Discord, atribui ao dev certo e cobra o andamento com lembretes e botões de status. | TypeScript, Discord, Linear, Gemini |
 
 ### Tech Stack
+
+**AI**
+
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![Anthropic API](https://img.shields.io/badge/Anthropic_API-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-4B5563?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-4B5563?style=for-the-badge)
 
 **Languages**
 
@@ -47,6 +57,10 @@ Desenvolvedor full-stack com foco em infraestrutura de rastreamento server-side,
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+
+**Segurança**
+
+![Cibersegurança](https://img.shields.io/badge/Cibersegurança-estudando-4B5563?style=for-the-badge)
 
 **Tráfego & Tracking**
 
