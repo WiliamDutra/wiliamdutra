@@ -19,8 +19,9 @@ Desenvolvedor full-stack com foco em infraestrutura de rastreamento server-side,
 | Projeto | O que faz | Stack |
 |---|---|---|
 | [**Trackeamento**](https://github.com/WiliamDutra/site-trackeamento) ([demo](https://trackeamento-wiliam.vercel.app/)) | Sistema de tracking server-side multi-tenant, com conector Meta Conversions API validado em produção. | Node.js, TypeScript, PostgreSQL |
-| [**Dra. Vitória Gomes**](https://github.com/WiliamDutra/site-dravitoria) | Site + setup completo de GTM, GA4 e Meta CAPI. | Site, GTM, GA4, Meta CAPI |
-| [**Dr. Paulo**](https://github.com/WiliamDutra/site-drpaulo-longividade) | Site + nova página de vendas + operação de anúncios reestruturada. | Site, Meta Ads, Google Ads |
+| **MaxTef** *(privado)* | Serviço de TEF para cartão presente: orquestra as transações do PDV com provedores de pagamento (MobTEF e API SiTef) isolados atrás de um contrato de domínio. | C#, .NET, CQRS, PostgreSQL |
+| **Open Finance API** *(privado)* | API REST para registro, consulta e gestão de boletos bancários com suporte a múltiplos bancos, workers assíncronos, retry com backoff e circuit breaker. | C#, .NET, Clean Architecture, DDD |
+| **Bot Discord ↔ Linear** *(privado)* | Bot que cria tarefas no Linear a partir de mensagens em linguagem natural no Discord, atribui ao dev certo e cobra o andamento com lembretes e botões de status. | TypeScript, Discord, Linear, Gemini |
 
 ### Tech Stack
 
